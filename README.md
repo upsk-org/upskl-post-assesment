@@ -33,7 +33,7 @@ Then open:
 - Staff experience: <http://localhost:3000>
 - Temporal Web UI: <http://localhost:8233>
 
-Presentation: [Juniper Salon prototype - 4-slide PDF](output/pdf/juniper-salon-prototype.pdf)
+Presentation: [4-slide PDF](output/pdf/juniper-salon-prototype.pdf) or [editable PowerPoint](output/pptx/juniper-salon-prototype.pptx)
 
 `npm run dev` starts the local Temporal server, Worker, and API. Temporal state is stored in the Docker volume declared in `compose.yml`.
 
