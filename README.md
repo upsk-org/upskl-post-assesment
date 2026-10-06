@@ -25,8 +25,7 @@ The sample names and phone numbers are fictional. SMS delivery, Google Sheets sy
 Requirements: Node.js 20 or newer and Docker Desktop.
 
 ```bash
-npm install
-npm run dev
+npm install && npm run dev
 ```
 
 Then open:
